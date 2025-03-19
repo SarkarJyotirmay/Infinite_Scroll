@@ -125,6 +125,7 @@ body{
 .move-right{
     transform: translateX(99%);
 }
+/* for toggling the mode by JS */
 .dark-mode-body{
     background: #212121 !important;
 }
