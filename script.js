@@ -1,4 +1,4 @@
-const API_ACCESS_KEY = "44emZQDoTjsry2VW4J9HnsAX_BH2UxkoftqXuBoTc4w";
+const API_ACCESS_KEY = "6qPx-WOPnlVxAD3cHUis2rVxAwPhsZJUafwFLHAZ_-w";
 const basePath = `https://api.unsplash.com/photos/random`;
 
 let loaded;
@@ -47,7 +47,7 @@ async function getData(url){
    return result;
    }
    catch{
-    console.log("Error a gaya bhai");
+    console.log("Data nahi aya bhai");
    }
 }
 
